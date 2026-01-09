@@ -223,22 +223,6 @@ Untuk production, update `baseURL` di `src/api/axios.js` ke production API URL.
 3. **Code Style**: Ikuti ESLint configuration yang sudah ada
 4. **Git Commits**: Gunakan meaningful commit messages
 
-## 🤝 Contributing
-
-1. Fork repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
 ## 📄 License
 
 MIT License
-
-## 🤝 Contact
-
-Untuk pertanyaan atau masalah, hubungi tim development Hariff Projects.
-
----
-
-**Happy Coding! 🚀**
