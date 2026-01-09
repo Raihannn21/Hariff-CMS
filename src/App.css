@@ -1,0 +1,76 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  padding: 2rem;
+}
+
+.status-card {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.status-card h2 {
+  margin-bottom: 1.5rem;
+  color: #646cff;
+}
+
+.status {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.status.loading {
+  color: #ffa500;
+}
+
+.status.connected {
+  color: #4caf50;
+}
+
+.status.disconnected {
+  color: #f44336;
+}
+
+.status-details {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #242424;
+  border-radius: 4px;
+  text-align: left;
+}
+
+.status-details p {
+  margin: 0.5rem 0;
+  color: #888;
+}
+
+.status-details strong {
+  color: #fff;
+}
+
+.status-error {
+  color: #f44336;
+}
+
+.error-message {
+  color: #ff6b6b;
+  font-family: monospace;
+  margin: 1rem 0;
+}
+
+.help-text {
+  color: #888;
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
